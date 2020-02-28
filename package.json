@@ -1,0 +1,19 @@
+{
+  "name": "nt-to-pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "download-file": "^0.1.5",
+    "images-to-pdf": "^1.0.3",
+    "jsdom": "^16.2.0",
+    "node-fetch": "^2.6.0",
+    "yargs": "^15.1.0"
+  }
+}
